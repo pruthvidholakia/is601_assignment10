@@ -1,9 +1,12 @@
-# 📦 Module 10
+# Module 10
 
 ---
 
 ## My DockerHub Image
 [Visit the DockerHub Page](https://hub.docker.com/r/pruthvidholkia/is601_module10)
+
+
+---
 
 
 ## pytest -s -v tests/integration/test_user.py --preserve-db
@@ -41,12 +44,12 @@ When to use: When you're doing a full verification before submission or after ma
 ---
 
 ## Github Action workflow
-![Github action]()
+![Github action](/screenshots/github_action.png)
 
 
 ---
 
 
 ## GitHub Actions Workflow Screenshot
-![GitHub Actions Workflow]()  
+![GitHub Actions Workflow](/screenshots/docker_push.png)  
 [This screenshot shows the passing CI pipeline with 100% test coverage.]
